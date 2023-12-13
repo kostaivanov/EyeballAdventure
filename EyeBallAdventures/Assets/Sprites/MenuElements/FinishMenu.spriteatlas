@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FinishMenu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 56
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 72a65c09e14e8d6478b6a1218d9dd337, type: 3}
+    totalSpriteSurfaceArea: 3040754
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4995ec00e9c64024f912b9cad4549382, type: 3}
+  - {fileID: 21300000, guid: b88f9011f99b2a742a4fda71f2bbfb43, type: 3}
+  - {fileID: 21300000, guid: 04322e11dde883d49b1fa531f98fcd1f, type: 3}
+  - {fileID: 21300000, guid: ed33a2c1600481043bfb18457c5891f3, type: 3}
+  - {fileID: 21300000, guid: f7c39e9214c25fa40bce9812d2e8e353, type: 3}
+  - {fileID: 21300000, guid: 8a7446a2a8b004f4a94088a9942ea052, type: 3}
+  - {fileID: 21300000, guid: b8649c934082a7c45a3da026cf18fda1, type: 3}
+  - {fileID: 21300000, guid: 29e990d559d0aeb4b887f012953f9375, type: 3}
+  - {fileID: 21300000, guid: 28ac66d6a7250994ab8fc4867f771a36, type: 3}
+  - {fileID: 21300000, guid: 57e0c3378e6e9de42b2c79c2e5dcdf17, type: 3}
+  - {fileID: 21300000, guid: b92dc73834b175c4cb478b6029f83f94, type: 3}
+  - {fileID: 21300000, guid: f622237fa4698d14abf3f8969a625e54, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Background
+  - 0Stars
+  - 2Stars
+  - capsule
+  - Box
+  - Drop
+  - Go
+  - 3Stars
+  - CoinUI
+  - Home
+  - Restart
+  - 1Stars
+  m_Tag: FinishMenu
+  m_IsVariant: 0

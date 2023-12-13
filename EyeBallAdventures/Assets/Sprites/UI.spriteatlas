@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 56
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b1339ae3bde2f354f88e88ea6b115a7e, type: 3}
+    totalSpriteSurfaceArea: 2575812
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cb55ce40de4a7394183037157c996b93, type: 3}
+  - {fileID: 21300000, guid: b89126800b9049140919ba20ef53b20c, type: 3}
+  - {fileID: 21300000, guid: d8e428e2ae01d4a45b02bd6e9ca0b5f2, type: 3}
+  - {fileID: 21300000, guid: 89b6d793dee97294690bcab1b2cca1d7, type: 3}
+  - {fileID: 21300000, guid: 392450c383170ec4bbbd45dccb8aea1d, type: 3}
+  - {fileID: 21300000, guid: f4f756f858ec61c499eea6b71184e25c, type: 3}
+  - {fileID: 21300000, guid: 72f7ff6a2b2b619419de2b04103c2ee8, type: 3}
+  - {fileID: 21300000, guid: a1acf6caa02c44242878ebe0f6ea4e66, type: 3}
+  - {fileID: 21300000, guid: d8c599bbc6602e443a896d7715c4ea2f, type: 3}
+  - {fileID: 21300000, guid: 98f8da7c58f91e649b943f54164de171, type: 3}
+  - {fileID: 21300000, guid: a2e317cc5fe7267408771cd442fe805d, type: 3}
+  - {fileID: 21300000, guid: 9ed3441f1ee7ee8408a002deec74e811, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Jump
+  - Left
+  - PauseButton
+  - Knob
+  - FlagUI
+  - cube
+  - Flag
+  - EyeBall_Health
+  - UI
+  - Right
+  - FlagBlack
+  - CoinUI
+  m_Tag: UI
+  m_IsVariant: 0

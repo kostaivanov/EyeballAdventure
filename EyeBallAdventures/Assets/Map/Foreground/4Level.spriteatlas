@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 4Level
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 56
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b3f072bed7e04a84aa77c387d3d9d4a6, type: 3}
+    totalSpriteSurfaceArea: 8849179
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8d1cdc149cf05aa489006e15774c3a15, type: 3}
+  - {fileID: 21300000, guid: 88f5ae45c95c77744a75d8fc592b8bef, type: 3}
+  - {fileID: 21300000, guid: daac4c375ac38eb4db9f582fcd99544e, type: 3}
+  - {fileID: 21300000, guid: 2f6e93c79da35624b9c7062d9257ef2b, type: 3}
+  - {fileID: 21300000, guid: 5b4bf6880bef47d49a6aa49041b6b0c6, type: 3}
+  - {fileID: 21300000, guid: f82d4ae8a0e3e0e408da6b8cccd054d5, type: 3}
+  - {fileID: 21300000, guid: 03f2049cb8e213c429a6e5c8f13b734e, type: 3}
+  - {fileID: 21300000, guid: 44c7adbce30426c4480ccb0bce9aaab6, type: 3}
+  - {fileID: 21300000, guid: 79ae966da43815f45bf7fe4eb57fbf99, type: 3}
+  - {fileID: 21300000, guid: caf834ef9187d704f965c5a55b81e9dc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4_4VPlat
+  - 4_1VPlat
+  - 4_3HPlat
+  - 4_4hPlat
+  - 4_2VPlat
+  - 4_1HPlat
+  - 4_0VPlat
+  - 4_3VPlat
+  - 4_2HPlat
+  - 4_0HPlat
+  m_Tag: 4Level
+  m_IsVariant: 0
